@@ -1,6 +1,10 @@
 # Sky-War-Python-Arcade-Game
 Vertical-scrolling shooter python arcade game
 
+Demo
+
+![Demo](https://user-images.githubusercontent.com/34080792/191701422-256dc78a-0a17-46ad-abfd-6819fd9c32c4.gif)
+
 In-game ScreenShots
 
 <img width="320" alt="image" src="https://user-images.githubusercontent.com/34080792/191196866-0ec8008b-c2bf-49c6-b7f5-b112cbda0441.png">
