@@ -1,5 +1,6 @@
 # Sky-War-Arcade-Game
-Vertical-scrolling shooter python/java arcade game
+Vertical-scrolling aircraft shooter python/java arcade game
+Various weapons match with different bullets and upgrading systems. Rich in combat, styles, and explosive effects
 
 Demo Gif
 
